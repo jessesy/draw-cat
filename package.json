@@ -1,0 +1,28 @@
+{
+  "name": "draw-cat",
+  "version": "1.0.1",
+  "description": "Show cat in bash jessesy",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessesy/draw-cat.git"
+  },
+  "keywords": [
+    "draw-cat-jessesy"
+  ],
+  "author": "jessesy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessesy/draw-cat/issues"
+  },
+  "homepage": "https://github.com/jessesy/draw-cat#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cat-ascii-faces": "^2.0.0",
+    "dotenv": "^16.4.5",
+    "maximum-number": "1.0.0"
+  }
+}
